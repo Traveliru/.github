@@ -1,6 +1,9 @@
 <div align="center">
 
-# Traveliru
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Traveliru/.github/main/profile/img/logo-dark.png" width="420">
+  <img src="https://traveliru.com/assets/logos/logo-primary.webp" width="420" alt="Traveliru">
+</picture>
 
 **Your guests already book tours. Let them book with you.**
 
